@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aia-eia-js/helper/vfs_fonts.js"
   },
   {
-    "revision": "37a2231d598f859f44e1d9c19393f81e",
+    "revision": "c236bbced8fb9e0d0082c6c3f9bc8eeb",
     "url": "/aia-eia-js/helper/wet.js"
   },
   {
